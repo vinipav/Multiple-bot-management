@@ -5,7 +5,7 @@ from custom_bot import CustomizedBot
 
 import json
 
-class Botareaa:
+class Botspace:
     def __init__(self):
         self.default_bots = {}
         self.user_bots = {}
