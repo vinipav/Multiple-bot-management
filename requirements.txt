@@ -1,4 +1,5 @@
 streamlit
+langchain
 llama_index
 qdrant_client
 python-dotenv
